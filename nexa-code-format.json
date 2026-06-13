@@ -1,0 +1,11 @@
+{
+  "defaultAuthor": "Gabriele Mondada",
+  "projects": [
+    {
+      "tag": "gm mit",
+      "type": "primary",
+      "copyrightOwner": "Gabriele Mondada",
+      "license": "MIT License. See the file LICENSE for details."
+    }
+  ]
+}
